@@ -1,7 +1,6 @@
-O aplicativo “MaisAgilidade” foi desenvolvido para todos os motorista e passageiro que querem o melhor mas nas nossas rodovias e estradas e sua segurança, 
-esse APPE foi desenvolvido pra da nossas
-opinião e nossas ajuda para melhorar nossas estradas e temos uma viajem tranquila e segura 
+O aplicativo “Livre Fome” foi desenvolvido para a grande escassez de comida no nosso estado do recife e região. Evidentemente a falta de alimentos não é a causa. Produzimos em excesso. No entanto, convivemos com um desperdício quase que insustentável de gêneros alimentícios, basta observar as feiras livres espalhadas pelos rincões do país e os produtos vencidos que são simplesmente descartados. Doutro lado, esses distribuidores de alimentos assumem esses custos de descarte do lixo orgânico.
 
 
 
-Dev: José Richard
+Dev: Hitalo Matheus de Lima Almeida
+Matricula: 01351102
